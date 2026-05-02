@@ -88,9 +88,9 @@ It covers the complete data analytics lifecycle — data cleaning, analysis, vis
 
 ---
 
-## 🎥 Project Demo
+## 🎥 LinkedIn
 
-👉 Add your LinkedIn video link here
+👉 www.linkedin.com/in/prajyotwadewale
 
 ---
 
