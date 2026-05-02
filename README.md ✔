@@ -1,0 +1,109 @@
+# 🚀 Data Analytics Internship Portfolio
+
+## 👨‍💻 About Me
+
+Hi, I'm **Prajyot Wadewale**, a Data Analyst Intern at ApexPlanet Software Pvt. Ltd.
+This repository showcases my complete end-to-end data analytics project — from data cleaning to dashboarding and storytelling.
+
+---
+
+## 🏢 Internship Details
+
+* Company: ApexPlanet Software Pvt. Ltd.
+* Role: Data Analyst Intern
+* Intern ID: APSPL2630610
+
+---
+
+## 📊 Project Overview
+
+This project demonstrates how raw data can be transformed into meaningful business insights using Python, SQL, and Power BI.
+It covers the full data analytics lifecycle — data cleaning, analysis, visualization, and decision-making.
+
+---
+
+## 📁 Project Structure
+
+### 🔹 Task 1: Data Cleaning
+
+* Cleaned raw e-commerce dataset using Python (Pandas)
+* Handled missing values, duplicates, and incorrect data types
+
+📂 Folder: `Task 1`
+
+---
+
+### 🔹 Task 2: Exploratory Data Analysis (EDA)
+
+* Performed descriptive and statistical analysis
+* Identified patterns, trends, and relationships
+
+📂 Folder: `Task 2`
+
+---
+
+### 🔹 Task 3: Power BI Dashboard
+
+* Built an interactive dashboard with KPIs and visual insights
+* Visualized revenue trends, top products, countries, and customer segments
+
+📂 Folder: `Task 3`
+
+---
+
+### 🔹 Task 4: Data Storytelling & Hypothesis
+
+* Converted analysis into business insights
+* Applied hypothesis-based reasoning to validate findings
+
+📂 Folder: `Task 4`
+
+---
+
+## 📊 Dashboard Preview
+
+👉 Add your screenshot in Task 3 folder and keep name `dashboard.png`
+
+```markdown
+![Dashboard](Task 3/dashboard.png)
+```
+
+---
+
+## 📈 Key Insights
+
+* Revenue shows significant growth in Q4 (Oct–Dec) indicating seasonal trends
+* United Kingdom contributes the highest revenue
+* Top 10 products generate the majority of sales
+* Majority customers fall under the low-value segment
+
+---
+
+## 🧠 Skills Gained
+
+* Data Cleaning (Pandas)
+* Exploratory Data Analysis (EDA)
+* Data Visualization (Power BI)
+* Business Analysis & Storytelling
+* Hypothesis Thinking
+
+---
+
+## 🎥 Project Demo
+
+👉 Add your LinkedIn video link here
+
+---
+
+## 🔗 GitHub Repository
+
+https://github.com/prajyotwadewale/ApexPlanet-Assignments
+
+---
+
+## 📌 Conclusion
+
+This internship helped me develop strong analytical thinking and practical data skills.
+I learned how to convert raw data into actionable business insights and present them effectively.
+
+---
