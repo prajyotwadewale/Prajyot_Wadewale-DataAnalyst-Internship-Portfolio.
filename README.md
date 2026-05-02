@@ -65,11 +65,7 @@ It covers the complete data analytics lifecycle — data cleaning, analysis, vis
 
 ## 📊 Dashboard Preview
 
-> ⚠️ Make sure you have uploaded `dashboard.png` inside **Task 3 - Dashboard**
-
-```markdown id="8z3yct"
-![Dashboard](Task 3 - Dashboard/dashboard.png)
-```
+![Dashboard](Task%203%20-%20Dashboard/Dashboard.png)
 
 ---
 
